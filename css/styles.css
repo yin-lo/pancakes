@@ -1,0 +1,51 @@
+body {
+    background-color: #fff3db;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    background-color: #f02425;
+    color: #fff;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: #f02425;
+  }
+  
+  h3 {
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+  }
+  
+  ul, ol,  p  {
+    text-align: left;
+  }
+  
+  p {
+    color: #333;
+  }
+  
+  strong, em {
+    color: #f02425;
+    font-style: normal;
+  }
+  
+  a {
+    color: #248dd9;
+    font-weight: bold;
+  
+  }
+  
+  .astuce {
+    font-weight: bold;
+    font-size: 13px;
+    background-color: #fed48a;
+    color: #666;
+    text-align: center;
+    font-style: italic;
+  }
